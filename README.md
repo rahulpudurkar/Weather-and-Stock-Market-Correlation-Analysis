@@ -31,7 +31,7 @@ To use the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-stock-analysis.git
+   git clone (https://github.com/rahulpudurkar/Weather-and-Stock-Market-Correlation-Analysis.git
    cd weather-stock-analysis
    ```
 
