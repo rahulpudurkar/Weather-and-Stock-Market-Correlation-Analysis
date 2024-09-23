@@ -35,10 +35,7 @@ To use the project, follow these steps:
    cd weather-stock-analysis
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the required dependencies.
 
 3. Download or place the required datasets (London weather data and stock market data) in the appropriate directory.
 
